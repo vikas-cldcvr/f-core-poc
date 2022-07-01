@@ -1,13 +1,13 @@
 {
   "name": "f-core-poc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "core lib for showing POC",
   "main": "index.js",
   "author": "Vikas",
   "license": "MIT",
   "private": false,
   "repository": {
-	"type": "git",
-	"url": "git@github.com:vikas-cldcvr/f-core-poc.git"
+    "type": "git",
+    "url": "git@github.com:vikas-cldcvr/f-core-poc.git"
   }
 }
